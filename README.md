@@ -59,4 +59,4 @@ So here we are using `puppeteer-extra` and `puppeteer-extra-plugin-stealth` whic
 
 
 ---
-<p align="center"> Made with ❤️ by <a href="https://twitter.com/amanraj1608">Rishabh Maheshwari</a></p>
+<p align="center"> Made with ❤️ by <a href="https://www.linkedin.com/in/rishabh-maheshwari1999/">Rishabh Maheshwari</a></p>
